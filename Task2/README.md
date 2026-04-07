@@ -14,8 +14,9 @@
 - Клас `Calc` виконує обчислення та агрегує дані у `Item2d`.
 - Клас `Main` демонструє процес серіалізації та десеріалізації.
 - Клас `MainTest` перевіряє коректність роботи програми.
-<img width="156" height="106" alt="image" src="https://github.com/user-attachments/assets/5acff605-915c-4761-bc41-21238e287250" />
 
 ---
 
 ## Структура проєкту
+<img width="156" height="106" alt="image" src="https://github.com/user-attachments/assets/5acff605-915c-4761-bc41-21238e287250" />
+
