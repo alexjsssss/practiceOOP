@@ -12,6 +12,11 @@
 
 ---
 
+## 📂 Структура проекту
+<img width="248" height="666" alt="image" src="https://github.com/user-attachments/assets/9c65adfc-3587-49b5-9f28-7940a933f646" />
+
+---
+
 ## ⚙️ Опис класів
 - **Main** – точка входу; створює екземпляр `Application` (Singleton) і запускає програму.  
 - **Application** – головний клас, що формує меню команд; реалізує шаблон **Singleton**.  
