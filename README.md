@@ -56,4 +56,7 @@ https://github.com/alexjsssss/practiceOOP/tree/main/Task5
 
 ### Завдання 6  
 🔗 Посилання на проект  
+
+https://github.com/alexjsssss/practiceOOP/tree/main/Task6
+
 📄 (опис завдання 6)  
