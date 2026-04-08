@@ -45,12 +45,15 @@ https://github.com/alexjsssss/practiceOOP/tree/main/Task4
 
 ---
 
-### ⭐ Завдання 5  
+### Завдання 5  
 🔗 Посилання на проект  
+
+https://github.com/alexjsssss/practiceOOP/tree/main/Task5
+
 📄 (опис завдання 5)  
 
 ---
 
-### ⭐ Завдання 6  
+### Завдання 6  
 🔗 Посилання на проект  
 📄 (опис завдання 6)  
