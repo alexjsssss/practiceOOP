@@ -15,10 +15,10 @@
 - Клас `Main` демонструє процес серіалізації та десеріалізації.
 - Клас `MainTest` перевіряє коректність роботи програми.
 
----
-
 ## Структура проєкту
 <img width="156" height="106" alt="image" src="https://github.com/user-attachments/assets/5acff605-915c-4761-bc41-21238e287250" />
+
+---
 
 ## Приклад роботи
 <img width="559" height="52" alt="image" src="https://github.com/user-attachments/assets/8665d99e-040a-4f09-922b-ab7f6288ec9c" />
