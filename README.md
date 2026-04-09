@@ -41,27 +41,27 @@ https://github.com/alexjsssss/practiceOOP/tree/main/Task3
 
 ---
 
-### Завдання 4  
-🔗 Посилання на проект
+## Завдання 4  
+🔗 Посилання на проект 
 
 https://github.com/alexjsssss/practiceOOP/tree/main/Task4
 
-📄 (опис завдання 4)  
+📄 У цьому завданні реалізовано шаблон **Factory Method** для створення різних варіантів відображення результатів. Додано клас `ViewTable` для табличного представлення даних.  
 
 ---
 
-### Завдання 5  
-🔗 Посилання на проект  
+## Завдання 5  
+🔗 Посилання на проект 
 
 https://github.com/alexjsssss/practiceOOP/tree/main/Task5
 
-📄 (опис завдання 5)  
+📄 У цьому завданні реалізовано шаблони **Command**, **MacroCommand** та **Singleton**. Додано консольні команди (`View`, `Generate`, `Change`, `Save`, `Restore`, `Undo`) та можливість скасування останньої дії.  
 
 ---
 
-### Завдання 6  
-🔗 Посилання на проект  
+## Завдання 6  
+🔗 Посилання на проект 
 
 https://github.com/alexjsssss/practiceOOP/tree/main/Task6
 
-📄 (опис завдання 6)  
+📄 У цьому завданні реалізовано паралельну обробку даних за допомогою шаблону **Worker Thread**. Створено команди `AvgCommand`, `MaxCommand`, `MinMaxCommand` та клас `CommandQueue` для управління чергою завдань у потоках. Додано консольну команду `ExecuteConsoleCommand` для запуску обчислень паралельно.  
